@@ -8,5 +8,7 @@ namespace SnakeAndLadder
 {
     internal class Snake_And_Ladder_Game
     {
+                int player_pos = 0;
+
     }
 }
